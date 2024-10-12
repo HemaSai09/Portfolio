@@ -10,6 +10,15 @@ body {
     background-color: #f4f4f4;
 }
 
+.profile-pic {
+    width: 150px; /* Adjust this size as needed */
+    height: 150px;
+    border-radius: 50%; /* Makes the image circular */
+    display: block;
+    margin: 0 auto 20px; /* Centers the image and adds space below it */
+}
+
+
 .container {
     width: 80%;
     margin: auto;
