@@ -7,7 +7,7 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #f4f4f4;
+    background-color: #d6d6d6;
 }
 
 .container {
@@ -17,7 +17,7 @@ body {
 }
 
 header {
-    background: #35424a;
+    background: #373737;
     color: #fff;
     padding: 20px 0;
     text-align: center;
@@ -32,7 +32,7 @@ header p {
 }
 
 a {
-    color: #e8491d;
+    color: #373737;
 }
 
 section {
@@ -43,7 +43,7 @@ section {
 h2 {
     text-align: center;
     margin-bottom: 20px;
-    color: #35424a;
+    color: #d6d6d6;
 }
 
 ul {
@@ -60,7 +60,7 @@ ul li {
 }
 
 footer {
-    background: #35424a;
+    background:  #d6d6d6;
     color: #fff;
     text-align: center;
     padding: 20px 0;
